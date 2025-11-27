@@ -1,0 +1,6 @@
+# Power BI UPI Analytics Dashboard - Requirements
+# Listed below are the software and tools required to run the dashboard.
+
+PowerBI-Desktop==2024.2
+Microsoft-Excel==2021
+Dataset-UPI-Transactions>=2024.01
